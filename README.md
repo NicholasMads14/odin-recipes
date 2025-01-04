@@ -1,6 +1,14 @@
-This is an introductory project for The Odin Project where I am tasked to design my first website which hosts a few recipes.
+Description:
+This is a simple recipe website for The Odin Project curriculum. It hosts a webpages, each with a recipe that includes a description, ingredient list, and the steps to make it.
 
-Skills used:
+Features:
+- Homepage with links to each recipe
+- Recipe webpages consisting of
+    - The recipe's description
+    - Ingredients list
+    - Step-by-step instructions
+
+Technologies used:
 - Html
     - Tags
     - Elements
