@@ -1,4 +1,4 @@
-#home-title {
+#home-title, .title{
     background-color:#500073;
     color: white;
     font-style: italic;
@@ -11,6 +11,23 @@ h3 {
     font-size: 30px;
 }
 
+h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: bold;
+    font-size: 20px;
+    margin-left: 1%;
+}
+
 .description {
     font-style: italic;
+}
+
+.title {
+    background-color: #d74b06b2;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
 }
