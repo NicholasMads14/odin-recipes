@@ -1,4 +1,4 @@
-h1 {
+#home-title {
     background-color:#500073;
     color: white;
     font-style: italic;
@@ -6,10 +6,11 @@ h1 {
     font-size: 40px;
 }
 
-.recipe-names {
-    font-size: large;
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
 }
 
-.heading {
-    color: red;
+.description {
+    font-style: italic;
 }
